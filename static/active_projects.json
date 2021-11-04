@@ -1,0 +1,23 @@
+[
+	{
+		"project_name": "168A Queensway",
+		"project_alias": "168a-queensway-14187",
+		"path": "s3fs-public/projects/14187/original/1.JPG",
+		"ext": "JPG",
+		"town": "Queenstown"
+	},
+	{
+		"project_name": "168A Queensway",
+		"project_alias": "168a-queensway-14187",
+		"path": "s3fs-public/projects/14187/original/2.JPG",
+		"ext": "JPG",
+		"town": "Queenstown"
+	},
+	{
+		"project_name": "168A Queensway",
+		"project_alias": "168a-queensway-14187",
+		"path": "s3fs-public/projects/14187/original/3.JPG",
+		"ext": "JPG",
+		"town": "Queenstown"
+	}
+]
